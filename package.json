@@ -1,0 +1,24 @@
+{
+  "name": "@allmarkedup/frekyll",
+  "version": "1.0.0",
+  "description": "Experimental adapter to help Fractal :heart: Jekyll",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/@allmarkedup/frekyll.git"
+  },
+  "author": "Mark Perkins <mark@allmarkedup.com> (http://allmarkedup.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/@allmarkedup/frekyll/issues"
+  },
+  "homepage": "https://github.com/@allmarkedup/frekyll",
+  "dependencies": {
+    "@frctl/fractal": "^1.0.3",
+    "bluebird": "^3.4.1",
+    "liquid-node": "^2.6.1",
+    "lodash": "^4.12.0",
+    "tinyliquid": "^0.2.32"
+  },
+  "devDependencies": {}
+}
